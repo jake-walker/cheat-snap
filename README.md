@@ -12,7 +12,6 @@
 
 ## Install
 
-    sudo apt install snapd-xdg-open
     sudo snap install cheat-snap
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
@@ -21,9 +20,9 @@
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
-## Remaining tasks
+<!--## Remaining tasks
 
-Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
+Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325))
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
 upstream so [Project] can authoritatively publish future releases.
@@ -55,15 +54,15 @@ upstream so [Project] can authoritatively publish future releases.
     - [ ] Contact the Snap Advocacy team to request the snap be transferred to upstream
   - [ ] Ask the Snap Advocacy team to celebrate the snap - [link]()
 
-If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft.io).
+If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft.io).-->
 
-<!-- 
+<!--
 ## The Snapcrafters
 
 | [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
 | :---: |
 | [Your Name](https://github.com/yourname/) |
---> 
+-->
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
