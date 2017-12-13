@@ -10,6 +10,10 @@
 </p>
 -->
 
+## Disclaimer
+
+I didn't make `cheat`, I have only made a snap of it. It was created by [chrisallenlane](https://github.com/chrisallenlane) and you can view his original project [here](https://github.com/chrisallenlane/cheat).
+
 ## Install
 
     sudo snap install cheat-snap
