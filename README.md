@@ -4,11 +4,9 @@
 
 <p align="center"><b>This is the snap for Cheat</b>, <i>"cheat allows you to create and view interactive cheatsheets on the command-line."</i>. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.</p>
 
-<!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
-<a href="https://build.snapcraft.io/user/snapcrafters/fork-and-rename-me"><img src="https://build.snapcraft.io/badge/snapcrafters/fork-and-rename-me.svg" alt="Snap Status"></a>
+<a href="https://build.snapcraft.io/user/jake-walker/cheat-snap"><img src="https://build.snapcraft.io/badge/jake-walker/cheat-snap.svg" alt="Snap Status"></a>
 </p>
--->
 
 ## Disclaimer
 
